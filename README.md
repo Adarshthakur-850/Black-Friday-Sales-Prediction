@@ -2,6 +2,11 @@
 
 A production-grade Machine Learning system to predict Purchase amount based on customer demographics and product details.
 
+<img width="1287" height="1045" alt="Screenshot 2026-02-17 012544" src="https://github.com/user-attachments/assets/16543099-e594-4c47-9c0c-b985dc9ea26e" />
+<img width="1300" height="1071" alt="Screenshot 2026-02-17 012806" src="https://github.com/user-attachments/assets/37af0f34-5188-430c-a6f2-0b4855293fd7" />
+<img width="928" height="532" alt="Screenshot 2026-02-17 012633" src="https://github.com/user-attachments/assets/9eb3b505-4d48-4b59-8d4f-48bac6f5a92b" />
+
+
 ## Project Structure
 ```
 black_friday_sales/
